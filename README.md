@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Hind 👋</h1>
 
 <p align="center">
-  Software Engineering Student | Developer
+  Software Engineering university Student | Developer
 </p>
 
 ### 👩‍💻 About Me
