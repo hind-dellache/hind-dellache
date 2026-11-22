@@ -11,11 +11,6 @@
 - 🌱 Currently learning, experimenting, and building projects.
 - 🚀 Always looking for new challenges and ideas.
 
-### 📌 What I'm Up To
-- Exploring new technologies.
-- Working on personal projects.
-- Improving my development skills.
-
 <p align="center">
   <i>Building things, one commit at a time.</i>
 </p>
